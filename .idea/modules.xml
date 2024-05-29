@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/argus.iml" filepath="$PROJECT_DIR$/.idea/argus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argus-core/argus-core.iml" filepath="$PROJECT_DIR$/argus-core/argus-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argus-frontend.iml" filepath="$PROJECT_DIR$/argus-frontend.iml" />
+    </modules>
+  </component>
+</project>
